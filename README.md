@@ -1,4 +1,3 @@
-
 <h2 align="center">Hi there! I am Omer 👋</h2>
 
 
@@ -30,5 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
